@@ -1,7 +1,7 @@
 # Accent-Archive-Predicts
 Capstone Project- Executive Statement
 
-### Using the Accent Error Archive website, built and maintained by George Mason University in Washington D.C, I want to investigate the ways in which phonetic error type frequencies can be used to predict native languages. The archive consists of recording by speakers from a diverse variety of countries of origin and native languages. In each recording, they speak in English, while they read the same standarized passage. What is being investigated from recording to recording, is the accent that they exhibit while speaking english.The other information contained in the archive is: ###
+Using the Accent Error Archive website, built and maintained by George Mason University in Washington D.C, I want to investigate the ways in which phonetic error type frequencies can be used to predict native languages. The archive consists of recording by speakers from a diverse variety of countries of origin and native languages. In each recording, they speak in English, while they read the same standarized passage. What is being investigated from recording to recording, is the accent that they exhibit while speaking english.The other information contained in the archive is: 
 
  **Meta Data**
 **Age**, **Gender**, **Years Speaking English**, **Method of learning Engish**, **English speaking country where they have resided**, **Other Languages** that the speaker speaks, by **name** and **quantity**, **Country of Origin**, including a **Map of Birth, and English Residence Locations** and **Native Language**)
